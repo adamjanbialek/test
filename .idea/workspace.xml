@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1b9fd63-7cda-4632-a21b-9bf4d0a53fba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LiczbaPierwszaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LiczbaPierwsza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Projekt.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1SHEawq3ZbVnIKwnWBEUJJ60NMt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -33,6 +46,31 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LiczbaPierwszaTest.shouldCheckIfLiczbaPierwsza">
+    <configuration name="LiczbaPierwsza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LiczbaPierwsza" />
+      <module name="newProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiczbaPierwszaTest.shouldCheckIfLiczbaPierwsza" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="newProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LiczbaPierwszaTest" />
+      <option name="METHOD_NAME" value="shouldCheckIfLiczbaPierwsza" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LiczbaPierwszaTest.shouldCheckIfLiczbaPierwsza" />
+        <item itemvalue="Application.LiczbaPierwsza" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
