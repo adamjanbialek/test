@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class LiczbaPierwsza {
 
@@ -19,4 +20,10 @@ public class LiczbaPierwsza {
         return czyPierwsza;
     }
 
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Podaj liczbę, żeby sprawdzić, czy to liczba pierwsza: ");
+        int sprawdzona = scanner.nextInt();
+        System.out.println(czyLiczbaPierwsza(sprawdzona));
+    }
 }
